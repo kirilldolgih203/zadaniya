@@ -1,0 +1,5 @@
+numbers = [3, -15, 27, -48, 59, -6, 14, -38, 72, -94, 18, -12]
+positive_count = sum(1 for num in numbers if num > 0)
+negative_count = sum(1 for num in numbers if num < 0)
+print(f"Количество положительных чисел: {positive_count}")
+print(f"Количество отрицательных чисел: {negative_count}")
