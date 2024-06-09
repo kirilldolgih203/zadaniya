@@ -1,0 +1,3 @@
+numbers = [-90, 56, -23, 12, 45, -67, 89, -32, 11, -76, 54]
+sum_of_numbers = sum(numbers)
+print(f"Сумма чисел в массиве: {sum_of_numbers}")
