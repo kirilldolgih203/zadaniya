@@ -1,0 +1,5 @@
+numbers = [-22, 45, -67, 34, -89, 100, -23, 5, -34, 78]
+max_number = max(numbers)
+min_number = min(numbers)
+print(f"Наибольшее число: {max_number}")
+print(f"Наименьшее число: {min_number}")
